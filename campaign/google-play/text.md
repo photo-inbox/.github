@@ -1,6 +1,6 @@
 # App name
 
-Photo Inbox
+Photo Inbox: Mobile first To-Do Tracker
 
 # Short description
 
